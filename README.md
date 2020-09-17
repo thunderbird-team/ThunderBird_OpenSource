@@ -11,7 +11,9 @@
 4、出于安全保护的考虑，下载功能实现部分的源码未做放出，相信大家可以理解。
 
 
-官网地址：http://www.thunderbird.bar    下载地址：https://thunderbird.lanzous.com/b01bdspaj
+
+官网地址：http://www.thunderbird.bar   
+下载地址：https://thunderbird.lanzous.com/b01bdspaj
 
 
 
