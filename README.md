@@ -15,5 +15,5 @@
 下载地址：https://www.lanzoux.com/b01bdspaj
 
 
-重要说明：此Github站点，不作任何交流与答疑工作，有任何问题，请访问在线网址——http://www.thunderbird.bar。
+重要说明：此Github站点，不作任何交流与答疑工作，有任何问题，请访问在线网址——http://www.thunderbird.bar
 
