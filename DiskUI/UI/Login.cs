@@ -9,7 +9,7 @@ namespace ThunderBirdNS
 {
     public partial class Login : DSkinUserControl
     {
-        private string loginUrl = @"http://www.lflyp.com/pctongji/bdlogin.htm";
+        private string loginUrl = @"https://passport.baidu.com/v2/?login&u=https://pan.baidu.com/disk/home";
 
         public Login()
         {
